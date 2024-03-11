@@ -1,29 +1,40 @@
 
 
-body {
+*{
     font-family: "Dosis", sans-serif;
 
-
+  }
+.header-logo{
+  display: flex;
+  justify-content: flex-start;
 }
-header{
-    color: #332c2c;
+
+#site-header {
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    position: fixed;
+    justify-content: space-around;
     width: 100%;
-    background: #fff;
-
+    flex-wrap: wrap;
+    background: #e9edc9;
+    align-items: center;
 }
+
+ 
+.navigation-text {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+
 
 
 ul {
     list-style-type: none;
+    width: 100%;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #4b965d;
+    background-color: #e9edc9;
     align-items:center ;
   }
   
@@ -33,19 +44,15 @@ ul {
   
   li a {
     display: block;
-    color: white;
+    color: #414140;
     text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+    padding: 9px 20px;
+    
   }
   
-  /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: #92c988;
+    background-color: #ccd5ae;
   }
 
-  footer{
-    color: white;
-    background-color: #5d8b55;
-  }
+  
 
