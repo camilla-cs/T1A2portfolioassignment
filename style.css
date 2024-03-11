@@ -54,5 +54,17 @@ ul {
     background-color: #ccd5ae;
   }
 
+
+footer {
+  display: flex;
+}
+
+footer img {
+  width: 3%;
+  height: 3%;
+  justify-content: center; /* Center content horizontally */
+  position: bottom;
+  bottom: 0;
   
+}
 
