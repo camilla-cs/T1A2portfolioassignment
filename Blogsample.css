@@ -1,0 +1,203 @@
+
+:root { 
+    /* CSS HEX */
+    --tea-green: #D2EDA8ff;
+    --floral-white: #F6F4EDff;
+    --cherry-blossom-pink: #F6B6C4ff;
+    --eerie-black: #212121ff;
+    --tomato: #EB6049ff;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    }
+    
+    
+    * {
+      margin: 0em;
+    }
+    
+    body {
+      display: flex;
+      flex-direction: column;
+      background-color:#F6F4EDff;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    header > img {
+    
+    height: fit-content;
+    width: fit-content;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 1%;
+    left: 50%;
+    
+    background:transparent;
+    
+    transform: translate(-50%, -50%);
+    animation: rotate 4s;
+    animation-iteration-count: infinite;
+    
+    }
+    
+    @keyframes rotate {
+        0% {
+          transform: translate(-50%, -50%) rotate(0deg);
+        }
+        100% {
+          transform: translate(-50%, -50%) rotate(360deg);
+        }
+    }
+    
+    header {
+      background-color: var(--tea-green);
+      height:15dvh;
+      width: 100%;
+      text-align: center;
+      border: 1px solid var(--eerie-black);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+     
+    }
+    
+    nav {
+      margin-top: 0.5em;
+    }
+    
+    nav > a {
+      text-decoration:none;
+      background-color: var(--cherry-blossom-pink);
+      color:black;
+      padding: 0.25em;
+      border-radius: 0.5em;
+    
+    }
+    
+    nav > a:hover {
+      background-color:aliceblue;
+    }
+    
+    main {
+      min-height: 80dvh;
+      width: 100%;
+      
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    
+    }
+    main > * {
+      margin: 0.5em;
+    }
+    
+    main > img {
+      height: 50dvh;
+      /* width: auto; */
+      margin: 2em;
+      object-fit:cover;
+    
+    }
+    
+    main > p {
+      font-size:large;
+    }
+    
+    main > h1 {
+      text-align: center;
+    }
+    
+    footer {
+      background-color: var(--tea-green);
+      height: 5dvh;
+      width: 100%;
+      text-align: center;
+      border: 1px solid var(--eerie-black);
+      
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    
+    }
+    body {
+    margin-top: 30px ;
+    padding: 0;
+    background-size: contain; 
+    background-position: center; 
+    background-repeat: repeat;
+    line-height: 1.75rem;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    color: #1c0e40;
+
+
+    font-family: tt-commons-pro, sans-serif;
+    font-style: normal;
+    font-weight: 530;
+    position: relative;
+    padding-left: 100px; /* Adjust the padding as needed */
+
+    }
+    
+    .image {
+        position: relative;
+        left: 0;
+        top: 0;
+    
+    }
+    .overlay-container {
+    background-image:url('https://www.solidbackgrounds.com/images/1680x1050/1680x1050-ghost-white-solid-color-background.jpg');
+    background-size: contain; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2; /* Ensure it's on top of the background container */
+    padding: 20px; /* Add padding inside the container */
+    border-radius: 10px; /* Rounded corners */
+
+
+ .background-container {
+    background-color: transparent; /* Transparent background color */
+    position: relative;
+    z-index: 1; /* Ensure it's below the overlay */
+    padding: 20px; /* Add padding inside the container */
+    border-radius: 10px; /* Rounded corners */
+ }
+ol {
+    margin-bottom: 15px; /* Adjust the value as needed */
+  }
+
+img {
+    display: block;
+    margin: 0 auto;
+  }
+
+html {
+  background-color: 0000
+
+  }
+
+    }
+    p {
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+    }
+
+
+    .nomi-titoli {
+        color:#494469;
+        font-size: medium;
+        font-family:"Plus Jakarta Sans", Helvetica, sans-serif;
+        font-size: 1.125rem;
+        line-height: 1.75rem;
+        -webkit-text-size-adjust: 100%;
+    }
