@@ -16,6 +16,12 @@
       margin: 0em;
     }
     
+
+    .li:link , .li:visited {
+      color: #F6F4EDff;
+      text-decoration: none;
+    }
+
     body {
       display: flex;
       flex-direction: column;
@@ -206,4 +212,6 @@ main {
 		margin: 1em;
 		
 	}
+
+
 }
