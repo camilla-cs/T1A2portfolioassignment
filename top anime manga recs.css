@@ -162,23 +162,24 @@
     border-radius: 10px; /* Rounded corners */
 
 
- .background-container {
+  .background-container {
     background-color: transparent; /* Transparent background color */
     position: relative;
     z-index: 1; /* Ensure it's below the overlay */
     padding: 20px; /* Add padding inside the container */
-    border-radius: 10px; /* Rounded corners */
- }
-ol {
+   border-radius: 10px; /* Rounded corners */
+       }
+
+  ol {
     margin-bottom: 15px; /* Adjust the value as needed */
   }
 
-img {
+  img {
     display: block;
     margin: 0 auto;
   }
 
-html {
+  html {
   background-color: 0000
 
   }
@@ -192,6 +193,22 @@ html {
         margin-inline-end: 0px;
     }
 
+    .button {
+      background-color: var(--tomato);
+      border: none;
+      color: white;
+      padding: 1em;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 1em;
+      border-radius: 2em;
+    }
+
+    .li:link , .li:visited {
+      color: #F6F4EDff;
+      text-decoration: none;
+    }
 
     .nomi-titoli {
         color:#494469;

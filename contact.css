@@ -15,6 +15,17 @@
 * {
     margin: 0em;
   }
+  #social-media-pic {
+    height: 20dvh;
+    width:20%;
+
+  }
+  .resume:link, .resume:visited {
+    color: var(--floral-white);
+    padding: 0.8em;
+	  background-color: var(--tomato);
+	  border-radius: 2em;
+  }
   
   body {
     display: flex;
@@ -100,6 +111,7 @@ main > p {
     font-size:large;
   }
 
+
   footer {
     background-color: var(--tea-green);
     height: 5dvh;
@@ -112,3 +124,5 @@ main > p {
     align-items: center;
   
   }
+
+  

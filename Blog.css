@@ -151,7 +151,6 @@
 	padding: 1em;
 	background-color: var(--cherry-blossom-pink);
 	border-radius: 2em;
-	/* filter: drop-shadow(1em 1em 5px var(--purple-heart-600)); */
 	box-shadow: 0.5em 0.5em var(--tomato);
 }
 
@@ -172,13 +171,6 @@
 	display: flex;
 	column-gap: 2em;
 }
-
-/* .projectPreview > section > a {
-	background-color: var(--cherry-blossom-pink);
-	padding: 1em;
-	border-radius: 2em;
-	border: 3px solid var(--eerie-black);
-} */
 
 .contentRow {
 	display: flex;

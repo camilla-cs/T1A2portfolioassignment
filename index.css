@@ -124,6 +124,21 @@ footer {
   align-items: center;
 
 }
+.button {
+  background-color: var(--tomato);
+  border: none;
+  color: white;
+  padding: 1em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1em;
+  border-radius: 2em;
+}
+.li:link , .li:visited {
+  color: #F6F4EDff;
+  text-decoration: none;
+}
 
 
 
