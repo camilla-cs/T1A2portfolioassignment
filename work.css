@@ -1,0 +1,102 @@
+  :root { 
+    /* CSS HEX */
+    --tea-green: #D2EDA8ff;
+    --floral-white: #F6F4EDff;
+    --cherry-blossom-pink: #F6B6C4ff;
+    --eerie-black: #212121ff;
+    --tomato: #EB6049ff;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    }
+
+    
+* {
+    margin: 0em;
+  }
+ 
+
+  body {
+    display: flex;
+    flex-direction: column;
+    background-color:#F6F4EDff;
+    justify-content: center;
+    align-items: center;
+  }
+
+  header {
+    background-color: var(--tea-green);
+    height:12dvh;
+    width: 100%;
+    text-align: center;
+    border: 1px solid var(--eerie-black);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+  }
+  
+  nav {
+    margin-top: 0.5em;
+  }
+  
+  nav > a {
+    text-decoration:none;
+    background-color: var(--cherry-blossom-pink);
+    color:black;
+    padding: 0.25em;
+    border-radius: 0.5em;
+  
+}
+  
+  nav > a:hover {
+    background-color:aliceblue;
+}
+  
+  main {
+    min-height: 80dvh;
+    width: 100%;
+    
+    display: flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    align-items: flex-start;
+  
+}
+  main > * {
+    margin: 0.5em;
+}
+  main > p {
+      font-size:large;
+}
+      
+ .resume:link, .resume:visited {
+    color: var(--floral-white);
+    padding: 0.8em;
+    background-color: var(--tomato);
+    border-radius: 2em;
+}
+
+nav > #github, #linkedin, #facebook, #instagram {
+    text-decoration:none;
+    background-color: transparent;
+      
+}
+
+
+      
+footer {
+    background-color: var(--tea-green);
+    height: 5dvh;
+    width: 100%;
+    text-align: center;
+    border: 1px solid var(--eerie-black);
+            
+    display: flex;
+    justify-content: center;
+    align-items: center;
+            
+}
+        
+    
