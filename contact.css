@@ -15,11 +15,7 @@
 * {
     margin: 0em;
   }
-  #social-media-pic {
-    height: 20dvh;
-    width:20%;
-
-  }
+  
   .resume:link, .resume:visited {
     color: var(--floral-white);
     padding: 0.8em;
@@ -34,34 +30,6 @@
     justify-content: center;
     align-items: center;
   }
-  
-  /* header > img {
-  
-  height: fit-content;
-  width: fit-content;
-  
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  top: 1%;
-  left: 50%;
-  
-  background:transparent;
-  
-  transform: translate(-50%, -50%);
-  animation: rotate 4s;
-  animation-iteration-count: infinite;
-  
-  }
-
-@keyframes rotate {
-    0% {
-      transform: translate(-50%, -50%) rotate(0deg);
-    }
-    100% {
-      /* transform: translate(-50%, -50%) rotate(360deg);
-    } */
 
 
 header {
@@ -110,6 +78,88 @@ main > * {
 main > p {
     font-size:large;
   }
+
+/* Style inputs, select elements and textareas */
+input[type=text], select, textarea{
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  resize: vertical;
+}
+
+/* Style the label to display next to the inputs */
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+
+/* Style the submit button */
+input[type=submit] {
+  background-color: var(--tomato);
+  color: white;
+  padding: 0.8em;
+  border: none;
+  border-radius: 2em;
+  cursor: pointer;
+  float: right;
+}
+
+/* Style the container */
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+/* Floating column for labels: 25% width */
+.col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
+
+/* Floating column for inputs: 75% width */
+.col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .col-25, .col-75, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+
+.formContainer {
+  max-width: 65dvw;
+
+	transition: 1s;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	row-gap: 1em;	
+	margin: 2em;
+	padding: 1em;
+	background-color: var(--cherry-blossom-pink);
+	border-radius: 2em;
+	box-shadow: 0.5em 0.5em var(--tomato);
+}
+
+
+
 
 
   footer {
