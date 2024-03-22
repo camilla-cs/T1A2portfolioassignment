@@ -9,51 +9,23 @@
     
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
-    }
+}
     
     
-    * {
+* {
       margin: 0em;
-    }
+}
     
-    body {
+body {
       display: flex;
       flex-direction: column;
       background-color:#F6F4EDff;
       justify-content: center;
       align-items: center;
-    }
+}
+
     
-    /* header > img {
-    
-    height: fit-content;
-    width: fit-content;
-    
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    top: 1%;
-    left: 50%;
-    
-    background:transparent;
-    
-    transform: translate(-50%, -50%);
-    animation: rotate 4s;
-    animation-iteration-count: infinite;
-    
-    }
-    
-    @keyframes rotate {
-        0% {
-          transform: translate(-50%, -50%) rotate(0deg);
-        }
-        100% {
-          transform: translate(-50%, -50%) rotate(360deg);
-        }
-    } */
-    
-    header {
+header {
       background-color: var(--tea-green);
       height:12dvh;
       width: 100%;
@@ -64,11 +36,11 @@
       justify-content: center;
       align-items: center;
      
-    }
+}
     
-    nav {
+nav {
       margin-top: 0.5em;
-    }
+}
     
     nav > a {
       text-decoration:none;
@@ -97,101 +69,44 @@
       margin: 0.5em;
     }
     
-    main > img {
-      height: 50dvh;
-      /* width: auto; */
-      margin: 2em;
-      object-fit:cover;
-    
-    }
-    
-    main > p {
-      font-size:large;
-    }
+   
     
     main > h1 {
       text-align: center;
     }
     
-    footer {
-      background-color: var(--tea-green);
-      height: 5dvh;
-      width: 100%;
-      text-align: center;
-      border: 1px solid var(--eerie-black);
-      
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    
-    }
-    body {
-    margin-top: 30px ;
-    padding: 0;
-    background-size: contain; 
-    background-position: center; 
-    background-repeat: repeat;
-    line-height: 1.75rem;
-    -webkit-text-size-adjust: 100%;
-    -webkit-font-smoothing: antialiased;
-    color: #1c0e40;
-
-
-    font-family: tt-commons-pro, sans-serif;
-    font-style: normal;
-    font-weight: 530;
-    position: relative;
-    padding-left: 100px; 
-
-    }
-    
-    .image {
-        position: relative;
-        left: 0;
-        top: 0;
-    
-    }
-    .overlay-container {
-    background-image:url('https://www.solidbackgrounds.com/images/1680x1050/1680x1050-ghost-white-solid-color-background.jpg');
-    background-size: contain; 
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 2; /* Ensure it's on top of the background container */
-    padding: 20px; /* Add padding inside the container */
-    border-radius: 10px; /* Rounded corners */
-
-
-  .background-container {
-    background-color: transparent; /* Transparent background color */
-    position: relative;
-    z-index: 1; /* Ensure it's below the overlay */
-    padding: 20px; /* Add padding inside the container */
-   border-radius: 10px; /* Rounded corners */
-       }
-
-  ol {
-    margin-bottom: 15px; /* Adjust the value as needed */
+ ol {
+    margin-bottom: 15px; 
   }
 
-  img {
-    display: block;
-    margin: 0 auto;
+
+  #deathnote {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 80%;
   }
 
-  html {
-  background-color: 0000
-
+   #attackontitan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 80%;
   }
 
-    }
-    p {
-        display: block;
-        margin-block-start: 1em;
-        margin-block-end: 1em;
-        margin-inline-start: 0px;
-        margin-inline-end: 0px;
-    }
+  #demonslayer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 80%;
+  }
+
+ main > p, ol{
+  font-size: x-large;
+ }
 
     .button {
       background-color: var(--tomato);
@@ -213,8 +128,52 @@
     .nomi-titoli {
         color:#494469;
         font-size: medium;
-        font-family:"Plus Jakarta Sans", Helvetica, sans-serif;
-        font-size: 1.125rem;
-        line-height: 1.75rem;
-        -webkit-text-size-adjust: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
+
+  
+
+    footer {
+      background-color: var(--tea-green);
+      height: 5dvh;
+      width: 100%;
+      text-align: center;
+      border: 1px solid var(--eerie-black);
+      
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    
+    }
+
+    /* desktop view */
+    @media screen and (min-width: 600px) {
+    
+      #deathnote {
+        float: left;
+        position: relative;
+        height:auto;
+        width:40%;
+        padding: 0.5em;
+      }
+    
+    #attackontitan {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: auto;
+      width: 50%;
+      padding: 2em;
+      margin-left: 25%;
+    }
+    
+    #demonslayer {
+      float: right;
+      position: relative;
+      height: 70dvh;
+      width: auto;
+      padding: 0.5em;
+      }
+}

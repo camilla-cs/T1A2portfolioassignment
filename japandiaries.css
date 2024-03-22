@@ -22,35 +22,6 @@
       align-items: center;
     }
     
-    header > img {
-    
-    height: fit-content;
-    width: fit-content;
-    
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    top: 1%;
-    left: 50%;
-    
-    background:transparent;
-    
-    transform: translate(-50%, -50%);
-    animation: rotate 4s;
-    animation-iteration-count: infinite;
-    
-    }
-    
-    @keyframes rotate {
-        0% {
-          transform: translate(-50%, -50%) rotate(0deg);
-        }
-        100% {
-          transform: translate(-50%, -50%) rotate(360deg);
-        }
-    }
-    
     header {
       background-color: var(--tea-green);
       height:12dvh;
@@ -95,7 +66,7 @@
       margin: 0.5em;
     }
     
-    main > img {
+    img {
       height: 50dvh;
       width:fit-content;
       margin: 2em;
@@ -138,3 +109,47 @@
       color: #F6F4EDff;
       text-decoration: none;
     }
+/* 
+tablet view  */
+@media screen and (min-width:1024px) {
+
+  img {
+  height:50dvh;
+  width:fit-content;
+  margin-bottom: 2em;
+  object-fit:cover;
+
+  }
+}
+
+
+
+
+/*desktop view*/
+@media screen and (min-width: 1025px) {
+#japanPic1 {
+  float: left;
+  position: relative;
+  height:auto;
+  width:15%;
+  padding: 0.5em;
+}
+
+
+#japanPic2 {
+  float: left;
+  position: relative;
+  height:auto;
+  width:15%;
+  padding: 0.5em;
+}
+
+#japanPic3{
+  float: left;
+  position: relative;
+  height:auto;
+  width:15%;
+  padding: 0.5em;
+}
+
+}
