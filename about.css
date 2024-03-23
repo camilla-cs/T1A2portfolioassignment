@@ -101,6 +101,20 @@
       border-radius: 20%;
 
     }
+
+    #foodpic {
+      float: right;
+      justify-content: right;
+      align-items: right;
+      position: relative;
+      height: 50dvh;
+      width: 40%;
+      object-fit: cover,scale-down;
+      margin: 0.5em 0.5em 0.5em;
+      padding: 0.5em;
+      border-radius: 20%;
+
+    }
     
     footer {
       background-color: var(--tea-green);
@@ -117,6 +131,10 @@
 
 /* mobile and tablet view  */
   @media screen and (max-width:1024px){
+
+    main > p {
+      font-size: x-large;
+    }
 
     #profile-picture {
       float: left;
@@ -141,6 +159,19 @@
       border-radius: 20%;
 
     }
+
+    #foodpic {
+      float:right;
+      position:relative;
+      align-items: right;
+      height: 60dvh;
+      width: 50%;
+      object-fit: cover, scale-down;
+      margin: left 1em;
+      padding: 1em;
+      border-radius: 20%;
+    }
+
   }
     
   
