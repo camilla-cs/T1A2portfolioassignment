@@ -59,7 +59,6 @@
     main {
       min-height: 80dvh;
       width: 100%;
-      
       display: flex;
       flex-direction: column;
       justify-content:flex-start;
@@ -122,11 +121,11 @@
     
     footer {
       background-color: var(--tea-green);
-      height: 5dvh;
+      height: 8dvh;
       width: 100%;
       text-align: center;
       border: 1px solid var(--eerie-black);
-      
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
       display: flex;
       justify-content: center;
       align-items: center;
