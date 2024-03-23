@@ -73,7 +73,11 @@
     
     
     main > p {
-      font-size:x-large;
+      font-size: large;
+      font-family: "DM Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 400;
+      font-style: normal;
     }
     
     main > h1 {

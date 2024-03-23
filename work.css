@@ -67,8 +67,12 @@
   main > * {
     margin: 0.5em;
 }
-  main > p {
+  main > p, ul {
       font-size:large;
+      font-family: "DM Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 400;
+      font-style: normal;
 }
       
  .resume:link, .resume:visited {

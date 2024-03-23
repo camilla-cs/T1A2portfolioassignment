@@ -77,6 +77,10 @@ main > * {
 }
 main > p {
     font-size:large;
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
   }
 
 /* Style inputs, select elements and textareas */
@@ -162,7 +166,7 @@ input[type=submit] {
 
 
 
-  footer {
+footer {
     background-color: var(--tea-green);
     height: 5dvh;
     width: 100%;
