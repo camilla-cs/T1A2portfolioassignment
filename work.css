@@ -81,7 +81,7 @@
     background-color: var(--tomato);
     border-radius: 2em;
 }
-
+/* using icons as links  */
 nav > #github, #linkedin, #facebook, #instagram {
     text-decoration:none;
     background-color: transparent;

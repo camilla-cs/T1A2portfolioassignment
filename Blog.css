@@ -1,4 +1,4 @@
-
+/* color palette for my website  */
 :root { 
   /* CSS HEX */
   --tea-green: #D2EDA8ff;
@@ -16,7 +16,7 @@
   margin: 0em;
 }
 
-
+/* changing the color of the links  */
 .li:link , .li:visited {
   color: #F6F4EDff;
   text-decoration: none;
@@ -29,8 +29,6 @@ body {
   justify-content: center;
   align-items: center;
 }
-
-
 
 
 header {
@@ -87,6 +85,7 @@ main > img {
 
 }
 
+/* using a different font from the header and the footer  */
 main > section > section > p {
   font-size:large;
   font-family: "DM Sans", sans-serif;
@@ -112,7 +111,9 @@ footer {
   align-items: center;
 
 }
-    
+
+
+/* blogs containers  */
 
 .projectPreview > img {
 	height: 20dvh;
@@ -161,9 +162,6 @@ footer {
 	margin: 0;
 }
 
-main {
-	margin: 0;
-}
 
 
 /* Desktop view */

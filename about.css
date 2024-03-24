@@ -1,4 +1,5 @@
 
+/* color palette for my website  */
 :root { 
     /* CSS HEX */
     --tea-green: #D2EDA8ff;
@@ -83,6 +84,8 @@
       text-align: center;
     }
     
+
+    /* making the images responsive since they're all different from each other */
     #profile-picture {
       float:left;
       height:30dvh;
