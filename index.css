@@ -84,7 +84,7 @@ main > h2 {
   text-decoration-color: var(--cherry-blossom-pink);
 }
 
-main > p {
+main > p  {
   font-size:large;
   font-family: "DM Sans", sans-serif;
   font-optical-sizing: auto;

@@ -147,7 +147,7 @@ footer {
   width: 100%;
   text-align: center;
   border: 1px solid var(--eerie-black);
-  
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
