@@ -79,11 +79,13 @@ main > * {
 
 main > img {
   height: 50dvh;
-  /* width: auto; */
+  width: auto;
   margin: 2em;
   object-fit:cover;
 
 }
+
+
 
 /* using a different font from the header and the footer  */
 main > section > section > p {
@@ -163,9 +165,8 @@ footer {
 }
 
 
-
 /* Desktop view */
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 800px) {
 	.contentRow {
 		flex-direction: row;
 		flex-wrap: wrap;

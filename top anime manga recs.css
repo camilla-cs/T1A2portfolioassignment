@@ -105,6 +105,22 @@ ol {
   width: 80%;
 }
 
+#witchandbeast {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  width:80%;
+}
+
+#haikyuu {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  width:80%;
+}
+
 /* font different from the header and the footer  */
 main > p, ol{
   font-size: large;
@@ -184,5 +200,21 @@ footer {
     padding: 0.5em;
   }
 
+  #witchandbeast {
+    float: left;
+    position: relative;
+    height:70dvh;
+    width:auto;
+    padding: 0.5em;
+  }
+
+
+  #haikyuu {
+    float: left;
+    position: relative;
+    height: 30%;
+    width: 30%;
+    padding: 2em;
+  }
 
 }
