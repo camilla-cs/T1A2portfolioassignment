@@ -54,7 +54,8 @@ The color palette is not only inspired by an illustration I have in my room, but
 The main objective I had in mind while developing the website was to create a portfolio that would represent me as a person. 
 
 
-- **color palette:**   
+- **color palette:**
+  ![  Image of color palette   ](./colorpalette.png)
  
 
 
