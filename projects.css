@@ -1,9 +1,9 @@
 :root { 
     --tea-green: #D2EDA8ff;
     --floral-white: #F6F4EDff;
-    --cherry-blossom-pink: #F6B6C4ff;
+    --cherry-blossom-pink: rgb(246, 182, 196);
     --eerie-black: #212121ff;
-    --tomato: #EB6049ff;
+    --tomato: rgb(235, 96, 73);
     
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     

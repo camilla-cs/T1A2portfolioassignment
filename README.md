@@ -8,7 +8,7 @@ ___
 + Portfolio website : https://camillaportfoliowebsite.netlify.app/ 
 + Github Repository: https://github.com/camilla-cs/T1A2portfolioassignment 
 + Presentation Video: 
-
++ Slide Deck: 
 
 ___
 
