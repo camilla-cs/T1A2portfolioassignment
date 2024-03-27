@@ -55,7 +55,7 @@ The main objective I had in mind while developing the website was to create a po
 
 
 - **color palette:**   
-![Image of the website's color palette] (./color palette.png)   
+ 
 
 
 
