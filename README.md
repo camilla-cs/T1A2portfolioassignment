@@ -55,9 +55,7 @@ The main objective I had in mind while developing the website was to create a po
 
 
 - **color palette:**
-![Image of the color palette](./DOCS/SITEMAP and WIREFRAMES/color palette.png)
-
-
+![Image of the color palette](./color palette.png)
 
 - **Inspirations:**
 
