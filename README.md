@@ -18,7 +18,8 @@ The features and functionality of my website are:
 + The website can be easily navigated by using the navigation bar at the top of the screen which will take the user through different pages of the website: 
 + **Home** Will take you directly to the homepage.
 + **About me** Personal presentation of myself, my hobbies and interests. 
-+ **Work** The user will find a resume mockup as well as a navigation bar with professional and personal links. 
++ **Work** In this page there's a button that will open a new tab with a mockup resume and at the end the user will find a navigation bar with icons as links for professional and personal accounts such as Github, Linkedin, Facebook and Instagram. 
+
 + **Contact** The user can find a way to contact me by email and phone number but also by submitting a message via form. 
 + **Blog** The blog page has four different contents that will take you to pages where I'm able to express my passion for travel, anime, manga, music and also a place where I can talk about my future projects. 
 
@@ -54,8 +55,12 @@ The main objective I had in mind while developing the website was to create a po
 
 
 - **color palette:**
+![Image of the color palette](./DOCS/SITEMAP and WIREFRAMES/color palette.png)
+
+
 
 - **Inspirations:**
+
 
 
 ## **Wireframes** 
@@ -86,11 +91,11 @@ Website's pages as seen from a Mobile, Tablet and Desktop view:
 
 - **Contact** 
 
-++ Mobile View: 
+    - Mobile View: 
 
-++ Tablet View: 
+    - Tablet View: 
 
-++ Desktop View: 
+    - Desktop View: 
 
 - **Blog** 
 
