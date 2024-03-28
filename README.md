@@ -196,11 +196,11 @@ Website's pages as seen from a Mobile, Tablet and Desktop view created with Figm
 
 ![  songs recommendations mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/songsmobile.png)
 
-- Tablet View:   
+    - Tablet View:   
 
 ![  songs recommendations mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/songstablet.png)
 
-- Desktop View:  
+    - Desktop View:  
 
 ![  songs recommendations mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/songsdesktop.png)
 
