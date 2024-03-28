@@ -89,93 +89,93 @@ Website's pages as seen from a Mobile, Tablet and Desktop view created with Figm
 - **About me** 
 
     - Mobile View: 
-    ![  about me mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/aboutmemobile.png)
+![  about me mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/aboutmemobile.png)
 
     - Tablet View: 
-    ![  about me tablet view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/aboutmetablet.png)
+![  about me tablet view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/aboutmetablet.png)
 
     - Desktop View: 
-    ![  about me desktop view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/aboutmedesktop.png)
+![  about me desktop view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/aboutmedesktop.png)
 
 
 - **Work** 
 
     - Mobile View: 
-    ![  work mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/workmobile.png)
+![  work mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/workmobile.png)
 
     - Tablet View: 
-     ![  work tablet view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/worktablet.png)
+![  work tablet view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/worktablet.png)
 
     - Desktop View: 
-     ![  work desktop view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/workdesktop.png)
+![  work desktop view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/workdesktop.png)
 
 - **Contact** 
 
     - Mobile View: 
-     ![  contact mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/contactmobile.png)
+![  contact mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/contactmobile.png)
 
     - Tablet View: 
-     ![  contact tablet view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/contacttablet.png)
+![  contact tablet view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/contacttablet.png)
 
     - Desktop View: 
-     ![  contact desktop view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/contactdesktop.png)
+![  contact desktop view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/contactdesktop.png)
 
 
 - **Blog** 
 
     - Mobile View: 
-     ![  blog mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/blogmobile.png)
+![  blog mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/blogmobile.png)
 
     - Tablet View: 
-     ![  blog tablet view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/blogtablet.png)
+![  blog tablet view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/blogtablet.png)
 
     - Desktop View: 
-     ![  blog desktop view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/blogdesktop.png)
+![  blog desktop view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/blogdesktop.png)
 
 - **Anime and Manga Recommendations:**
 
     - Mobile View: 
-     ![  anime and manga mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/animemobile.png)
+![  anime and manga mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/animemobile.png)
 
     - Tablet View: 
-     ![  anime and manga tablet view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/animetablet.png)
+![  anime and manga tablet view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/animetablet.png)
 
     - Desktop View: 
-     ![  anime and manga tablet view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/animedesktop.png)
+![  anime and manga tablet view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/animedesktop.png)
 
 - **Japan Diaries:** 
 
     - Mobile View: 
-     ![ japan mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/japan%20mobile.png)
+![ japan mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/japan%20mobile.png)
 
     - Tablet View: 
-     ![  japan tablet view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/japantablet.png)
+![  japan tablet view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/japantablet.png)
 
     - Desktop View: 
-     ![  japan desktop view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/japandesktop.png)
+![  japan desktop view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/japandesktop.png)
 
 - **Projects** 
 
     - Mobile View: 
-    ![  projects mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/projectsmobile.png)
+![  projects mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/projectsmobile.png)
 
     - Tablet View: 
-    ![  projects tablet view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/projectstablet.png)
+![  projects tablet view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/projectstablet.png)
 
     - Desktop View: 
-    ![  projects desktop view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/projectsdesktop.png)
+![  projects desktop view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/projectsdesktop.png)
 
 
 - **Songs Recommendations:** 
 
     - Mobile View: 
-     ![  songs recommendations mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/songsmobile.png)
+![  songs recommendations mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/songsmobile.png)
 
     - Tablet View: 
-     ![  songs recommendations mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/songstablet.png)
+![  songs recommendations mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/songstablet.png)
 
     - Desktop View: 
-     ![  songs recommendations mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/songsdesktop.png)
+![  songs recommendations mobile view   ](./DOCS/SITEMAP%20and%20WIREFRAMES/songsdesktop.png)
 
 
 
