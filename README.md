@@ -5,10 +5,11 @@ The purpose of this portfolio is to showcase what I've learnt as a Coder Academy
 ___
 
 ## **Links** 
-+ Portfolio website : https://camillaportfoliowebsite.netlify.app/ 
-+ Github Repository: https://github.com/camilla-cs/T1A2portfolioassignment 
-+ Presentation Video: 
-+ Slide Deck: 
++ Portfolio website :[portfolio website ](https://camillaportfoliowebsite.netlify.app/)
++ Github Repository:[github repository  ](https://github.com/camilla-cs/T1A2portfolioassignment) 
++ Presentation Video: [presentation video](https://youtu.be/f4eL2Ti3CYQ) 
++ Slide Deck: [Slide deck pdf](./DOCS/Slide%20deck.pdf)
+
 
 ___
 
