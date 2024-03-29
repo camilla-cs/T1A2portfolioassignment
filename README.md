@@ -208,6 +208,41 @@ Website's pages as seen from a Mobile, Tablet and Desktop view created with Figm
 
 ## **Final Result** 
 
+*Homepage* 
+
+![ homepage final ](./DOCS/SITEMAP%20and%20WIREFRAMES/homepage%20final.png)
+
+*About me*
+
+![About me final ](./DOCS/SITEMAP%20and%20WIREFRAMES/about%20me%20final.png)
+
+*Work* 
+
+![Work final ](./DOCS/SITEMAP%20and%20WIREFRAMES/work%20final.png)
+
+*Contact* 
+
+![Contact final](./DOCS/SITEMAP%20and%20WIREFRAMES/contact%20final.png)
+
+*Blog* 
+
+![ Blog final](./DOCS/SITEMAP%20and%20WIREFRAMES/blog%20final.png)
+
+*Anime and manga Recommendations* 
+
+![ anime and manga final ](./DOCS/SITEMAP%20and%20WIREFRAMES/anime%20final.png)
+
+*Japan diaries* 
+
+![Japan diaries final ](./DOCS/SITEMAP%20and%20WIREFRAMES/japan%20final.png)
+
+*Projects* 
+
+![Projects final ](./DOCS/SITEMAP%20and%20WIREFRAMES/projects%20final.png)
+
+*Songs Recommendations* 
+
+![Songs final ](./DOCS/SITEMAP%20and%20WIREFRAMES/songs%20final.png)
 
 
 
