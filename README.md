@@ -7,8 +7,6 @@ ___
 ## **Links** 
 + Portfolio website :https://camillaportfoliowebsite.netlify.app/
 + Github Repository: https://github.com/camilla-cs/T1A2portfolioassignment
-+ Presentation Video: https://youtu.be/f4eL2Ti3CYQ
-+ Slide Deck: [Slide deck pdf](./DOCS/slide%20deck%20camilla%20de%20pretto.pdf)
 
 
 ___
